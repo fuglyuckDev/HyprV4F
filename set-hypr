@@ -34,7 +34,7 @@ nvidia_stage=(
     nvidia-open-dkms 
     nvidia-settings 
     libva 
-    libva-nvidia-driver-git
+    nvidia-vaapi-driver
 )
 
 #the main packages
