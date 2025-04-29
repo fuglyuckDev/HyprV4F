@@ -31,7 +31,7 @@ prep_stage=(
 #software for nvidia GPU only
 nvidia_stage=(
     linux-headers 
-    nvidia-dkms 
+    nvidia-open-dkms 
     nvidia-settings 
     libva 
     libva-nvidia-driver-git
@@ -71,7 +71,7 @@ install_stage=(
     noto-fonts-emoji 
     lxappearance 
     xfce4-settings
-    nwg-look-bin
+    nwg-look
     sddm
 )
 
