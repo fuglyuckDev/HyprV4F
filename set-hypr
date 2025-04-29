@@ -34,7 +34,6 @@ nvidia_stage=(
     nvidia-open-dkms 
     nvidia-settings 
     libva 
-    nvidia-vaapi-driver
 )
 
 #the main packages
